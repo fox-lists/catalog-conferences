@@ -13,19 +13,25 @@
   - [Red Hat Summit](#red-hat-summit)
 - [Rust](#rust)
   - [Rust Conf](#rust-conf)
+- [CyberSecurity](#cybersecurity)
+  - [DEFCON](#defcon)
 - [Linux](#linux)
   - [Embedded Linux Conference](#embedded-linux-conference)
   - [Linux Plumbers Conference](#linux-plumbers-conference)
+  - [Scale](#scale)
 - [JavaScript](#javascript)
   - [JSNation](#jsnation)
 - [Vite](#vite)
   - [International JavaScript Conference](#international-javascript-conference)
 - [C++](#c)
-- [Cppcon](#cppcon)
+  - [Cppcon](#cppcon)
   - [C++ On Sea](#c-on-sea)
   - [C++Now](#cnow)
 - [Go](#go)
   - [GopherCon](#gophercon)
+- [Other](#other)
+  - [PackagingCon](#packagingcon)
+  - [Sigbovik](#sigbovik)
 
 ## LLVM
 
@@ -55,6 +61,12 @@
 
 - 2023 (September 12-15, Albuquerque, New Mexico, USA)
 
+## CyberSecurity
+
+### DEFCON
+
+[Website](https://defcon.org)
+
 ## Linux
 
 ### Embedded Linux Conference
@@ -70,6 +82,12 @@
 [Website](https://lpc.events)
 
 - 2023 (November 13-15, Richmond, Virginia, USA)
+
+### Scale
+
+[Website](https://www.socallinuxexpo.org)
+
+- 2024 (SCALE 21x) (March 14-17, Pasadena, California, USA)
 
 ## JavaScript
 
@@ -93,7 +111,7 @@
 
 ## C++
 
-## Cppcon
+### Cppcon
 
 [Website](https://cppcon.org/)
 
@@ -132,3 +150,16 @@
 - ...
 - 2013
 
+## Other
+
+### PackagingCon
+
+[Website](https://packaging-con.org)
+
+- 2023 (October 26-28, Berlin, Germany)
+
+### Sigbovik
+
+[Website](https://sigbovik.org)
+
+- 2023 (March 31)
